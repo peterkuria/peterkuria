@@ -3,12 +3,19 @@
 
 Hello there!, I am Peter Kuria👋
 
-I am a Scrum-master and `Fullstack software developer` from Kenya 🇰🇪. :kenya: <span>&#x1f1e7;&#x1f1f7;</span>I do software consulting for my own start-up called [Soft Av Networks](https://softavnetworks.com). I will soon be creating & share digital contents ([Courses](https://www.youtube.com/channel/UC-rKJRNGHsxEXp0hZbGm3EA/?sub_confirmation=1 "Soft AV Networks"), Software Consulting, Blog Posts and Open Source Projects) for **FREE**.
+I am a experienced Scrum-master and `Fullstack software developer` from Kenya 🇰🇪. :kenya: I do software consulting for my own start-up called [Soft Av Networks](https://softavnetworks.com). I love cloud deployment using docker and [Kubernetes](https://bitnami.com/kubernetes/kubeapps). I will soon be creating & share digital contents ([Courses](https://www.youtube.com/channel/UC-rKJRNGHsxEXp0hZbGm3EA/?sub_confirmation=1 "Soft AV Networks"), Software Consulting, Blog Posts and Open Source Projects) for **FREE**.
 
+## Current Expertise
+- Mobile App development
+- ERP development( Odoo, ERPNext, Soft Excel ERP)
+- Web development using adaptive Agile methodologies
+- CRM and POs
+- educational, hospital, finace and e-commerce management solutions for enterprises and commercial stakeholders.
+- cloud solutions/migrations and SaaS offerings.
 
 ## 🤔 Current Status 
 
-- 🔭 I’m currently working on PHP, Django Odoo ERP, ASP.NET, and exciting climate change mitigation at [IDEA Africa](https://idea-africa.org/) projects.
+- 🔭 I’m currently working on PHP, Django Odoo ERP, ASP.NET, and exciting climate change mitigation technologies at [IDEA Africa](https://idea-africa.org/) projects.
 - 🌱 I’m currently learning Rest API & Performance Optimization in ASP.NET in C#. 
 - 🚧 Learning Professional Project Management at campus.
 
@@ -30,7 +37,7 @@ I am a Scrum-master and `Fullstack software developer` from Kenya 🇰🇪. :ken
 ## ⚡ Fun facts about me: 
 
 - 👨‍👧‍👦 ❤️A Husband, and a father of two lovey kids.
-- 🌳 Passionate about climate-change and environmental
+- 🌳 Passionate about climate-change and environmental perservation activities along with my wife [Hellen](https://www.linkedin.com/in/hellen-njeri-kuria/)
 
 - 👨🏼‍🍳 Loves Cooking and music
 
