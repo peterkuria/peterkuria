@@ -3,7 +3,7 @@
 
 Hello there!, I am Peter Kuria👋
 
-I am a experienced Scrum-master and `Fullstack software developer` from Kenya 🇰🇪. :kenya: I do software consulting for my own start-up called [Soft Av Networks](https://softavnetworks.com). I love cloud deployment using docker and [Kubernetes](https://bitnami.com/kubernetes/kubeapps). I will soon be creating & share digital contents ([Courses](https://www.youtube.com/channel/UC-rKJRNGHsxEXp0hZbGm3EA/?sub_confirmation=1 "Soft AV Networks"), Software Consulting, Blog Posts and Open Source Projects) for **FREE**.
+I am a experienced Scrum-master and `Fullstack software developer` from Kenya :kenya: I do software consulting for my own start-up called [Soft Av Networks](https://softavnetworks.com). I love cloud deployment using docker and [Kubernetes](https://bitnami.com/kubernetes/kubeapps). I will soon be creating & share digital contents ([Courses](https://www.youtube.com/channel/UC-rKJRNGHsxEXp0hZbGm3EA/?sub_confirmation=1 "Soft AV Networks"), Software Consulting, Blog Posts and Open Source Projects) for **FREE**.
 
 ## Current Expertise
 - Mobile App development
@@ -21,10 +21,10 @@ I am a experienced Scrum-master and `Fullstack software developer` from Kenya �
 
 ## 💬 Ask me about 
 
-- 👨🏽‍🎓 Graduting next year with `Bachelor of Computing Science` from University of Greenwich, London, UK.
+- 👨🏽‍🎓 Graduting next year with `Bachelor of Science in Computing (Hons)` from University of Greenwich, London, UK.
 - Fullstack Software Development in C#, PHP (OOP) & Django 
 - Previously a `Senior DevOps Engineer` at Hyatt Plaza, Qatar/UAE for over 5 years.
-- Traveling in Kenya 🇳🇵
+- Traveling in Kenya 🇰🇪.
 
 ## 📫 How to reach me:
 
