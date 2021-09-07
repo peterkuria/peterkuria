@@ -30,7 +30,7 @@ I am a experienced Scrum-master and `Fullstack software developer` from Kenya :k
 
 - Email: peter.kuria.cloud@gmail.com or peter@softavnetworks.com
 - Website: [Soft Av Networks](https://softavnetworks.com)
-- Websites 2: [Nai Tech](https://nai.co.ke)
+- Working with: [Nai Tech](https://nai.co.ke)
 - LinkedIn: [linkedin.com/in/peterkuria2000](https://www.linkedin.com/in/peterkuria2000/)
 - YouTube: [youtube.com/softavnetworks](https://www.youtube.com/channel/UC-rKJRNGHsxEXp0hZbGm3EA?sub_confirmation=1 "Soft AV Networks")
 - twitter: [twitter.com/Peterkuria2000](https://twitter.com/Peterkuria2000)
