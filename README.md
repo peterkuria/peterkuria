@@ -3,7 +3,7 @@
 
 Hello there!, I am Peter Kuria👋
 
-I am a experienced Scrum-master and `Fullstack software developer` from Kenya :kenya: I do software consulting for my own start-up called [Soft Av Networks](https://softavnetworks.com). I love cloud deployment using docker and [Kubernetes](https://bitnami.com/kubernetes/kubeapps). I will soon be creating & share digital contents ([Courses](https://www.youtube.com/channel/UC-rKJRNGHsxEXp0hZbGm3EA/?sub_confirmation=1 "Soft AV Networks"), Software Consulting, Blog Posts and Open Source Projects) for **FREE**.
+I am a experienced Scrum-master and `Fullstack software developer` from Kenya :kenya: I do software consulting for a start-up called [Soft Av Networks](https://softavnetworks.com). I love cloud deployment using docker and [Kubernetes](https://bitnami.com/kubernetes/kubeapps). I will soon be creating & share digital contents ([Courses](https://www.youtube.com/channel/UC-rKJRNGHsxEXp0hZbGm3EA/?sub_confirmation=1 "Soft AV Networks"), Software Consulting, Blog Posts and Open Source Projects) for **FREE**.
 
 ## Current Expertise
 - Mobile App development
