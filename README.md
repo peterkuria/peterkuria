@@ -38,7 +38,7 @@ I am a experienced Scrum-master and `Fullstack software developer` from Kenya :k
 ## ⚡ Fun facts about me: 
 
 - 👨‍👧‍👦 ❤️A Husband, and a father of two lovey kids.
-- 🌳 Passionate about climate-change and environmental perservation activities along with my wife [Hellen](https://www.linkedin.com/in/hellen-njeri-kuria/)
+- 🌳 Passionate about climate-change and environmental perservation activities.
 
 - 👨🏼‍🍳 Loves Cooking and music
 
