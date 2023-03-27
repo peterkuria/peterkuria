@@ -21,8 +21,8 @@ I am a experienced Scrum-master and `Fullstack software developer` from Kenya :k
 
 ## 💬 Ask me about 
 
-- 👨🏽‍🎓 Graduting next year with `Bachelor of Science in Computing (Hons)` from University of Greenwich, London, UK.
-- Fullstack Software Development in C#, PHP, Java, Dart Flutter (OOP) & Python.  
+- 👨🏽‍🎓 2022-  `Bachelor of Science in Computing (Hons)` from University of Greenwich, London, UK.
+- DevOps Software Development in C#, PHP, Java, Dart Flutter (OOP) & Python.  
 - Previously a `Senior DevOps Engineer` at Hyatt Plaza, Qatar/UAE for over 5 years.
 - Traveling in Kenya 🇰🇪.
 
